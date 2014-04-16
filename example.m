@@ -1,5 +1,6 @@
 %% Load numerical phantom data.
 data = load('example.mat');
+data.example = double(data.example);
 
 %% Show data.
 figure;
