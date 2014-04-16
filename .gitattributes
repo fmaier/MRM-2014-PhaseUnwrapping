@@ -1,1 +1,3 @@
 *.txt eol=crlf
+.gitattributes export-ignore
+
