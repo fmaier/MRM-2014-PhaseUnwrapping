@@ -1,10 +1,10 @@
-The example.m script shows how to use the algorithm. The file 'sunwrap.m' contains the actual algorithm.
+The 'example.m' script shows how to use the algorithm. The file 'sunwrap.m' contains the actual algorithm.
 
 
 The code is available here:
 
 GitHub: https://github.com/fmaier/MRM-2014-PhaseUnwrapping
-MATLAB Central: http://www.mathworks.com/matlabcentral/fileexchange/46664
+MATLAB Central: https://www.mathworks.com/matlabcentral/fileexchange/46664
 
 
 Please cite the following publication if you use this algorithm:
